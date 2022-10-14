@@ -1,0 +1,13 @@
+pandas
+fastapi
+uvicorn
+pyarrow>=6.1.0
+transformers
+sentencepiece
+openpyxl
+rouge_score
+spacy
+sklearn
+numpy
+sentence-transformers
+torch
