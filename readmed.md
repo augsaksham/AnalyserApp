@@ -6,7 +6,7 @@ Installation
 
 Local PC:
 
-* git clone
+* git clone https://github.com/augsaksham/AnalyserApp
 * cd dev_app/project
 * pip install -r requirements.txt
 * python -m spacy download en_core_web_sm
@@ -19,7 +19,7 @@ Goto localhost:8000/docs to see the API Documentation
 
 Docker
 
-* git clone
+* git clone https://github.com/augsaksham/AnalyserApp
 * cd dev_app/project
 * docker build . -t dev_nlp
 * docker run -d --name dev_curr -p 80:80 dev_nlp
